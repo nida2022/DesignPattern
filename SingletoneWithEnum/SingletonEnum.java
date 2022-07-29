@@ -1,6 +1,6 @@
 package Singleton.DesignPattern.SingletoneWithEnum;
 
-
+//Testing future branch
 enum Singleton{
     Instance;
     int val;
